@@ -2,7 +2,7 @@
 Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
-##Páginas Desenvolvidas em cursos de HTML/CSS
+## Páginas Desenvolvidas em cursos de HTML/CSS
 
 [Apeperia](https://github.com/gilvanfranca402/Apeperia)
 
